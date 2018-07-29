@@ -8,7 +8,7 @@ public class ExistenceScript : MonoBehaviour {
 	void Start () {
 		
 	}
-	
+	//awesome comment
 	// Update is called once per frame
 	void Update () {
         float small = .05f;
